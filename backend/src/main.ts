@@ -12,8 +12,14 @@ dotenv.config({ path: path.join(__dirname, '../.env') });
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
+  const allowedOrigins = [
+    process.env.FRONTEND_URL || 'http://localhost:3000',
+    process.env.FRONTEND_URL_ALT || '',
+    'https://flex-living-frontend-mu.vercel.app',
+  ].filter(Boolean);
+
   app.enableCors({
-    origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+    origin: allowedOrigins,
     credentials: true,
   });
 
