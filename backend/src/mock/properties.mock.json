@@ -1,0 +1,73 @@
+{
+  "2B N1 A - 29 Shoreditch Heights": {
+    "title": "Central Flat in Spitalfields - The Flex London",
+    "address": "29 Shoreditch Heights, London",
+    "guests": 4,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 3,
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": [
+      "Internet",
+      "Washing Machine",
+      "Smoke Detector",
+      "Wireless",
+      "Hair Dryer",
+      "Carbon Monoxide Detector",
+      "Kitchen",
+      "Heating",
+      "Essentials"
+    ],
+    "location": { "lat": 51.5194, "lng": -0.0754 },
+    "description": "Quiet yet convenient spot in the heart of London with all essentials, top-quality amenities, and easy access to transport, shops, and cafes."
+  },
+  "3B N2 B - 45 Brick Lane": {
+    "title": "Brick Lane Apartment",
+    "address": "45 Brick Lane, London",
+    "guests": 6,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "beds": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": [
+      "Internet",
+      "Washing Machine",
+      "Smoke Detector",
+      "Kitchen",
+      "Heating",
+      "Essentials"
+    ],
+    "location": { "lat": 51.5205, "lng": -0.0719 },
+    "description": "Modern Brick Lane flat with spacious living areas and quick access to Shoreditch highlights."
+  },
+  "1B Studio - 12 Spitalfields": {
+    "title": "Spitalfields Studio",
+    "address": "12 Spitalfields, London",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1600&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691723518-36a5ac3be353?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "amenities": ["Internet", "Wireless", "Kitchen", "Heating", "Essentials"],
+    "location": { "lat": 51.5191, "lng": -0.0772 },
+    "description": "Cozy studio perfect for solo travelers or couples, right next to Spitalfields Market."
+  }
+}

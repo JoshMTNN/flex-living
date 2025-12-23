@@ -1,0 +1,23 @@
+{
+  "name": "flex-living-reviews-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reviews Dashboard for Flex Living",
+  "scripts": {
+    "dev:frontend": "pnpm --filter frontend dev",
+    "dev:backend": "pnpm --filter backend start:dev",
+    "dev": "pnpm run dev:backend & pnpm run dev:frontend",
+    "build:frontend": "pnpm --filter frontend build",
+    "build:backend": "pnpm --filter backend build",
+    "build": "pnpm run build:backend && pnpm run build:frontend",
+    "install:all": "pnpm install"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "eslint": "^8.57.0"
+  },
+  "engines": {
+    "node": "22.12.0",
+    "pnpm": ">=8.0.0"
+  }
+}

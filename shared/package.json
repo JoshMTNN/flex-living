@@ -1,0 +1,7 @@
+{
+  "name": "@flex-living/shared",
+  "version": "1.0.0",
+  "main": "./types/review.types.ts",
+  "types": "./types/review.types.ts",
+  "private": true
+}

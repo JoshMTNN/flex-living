@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2020-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Amazing stay! The apartment was spotless and in a perfect location. The host was very responsive and helpful throughout our stay.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-01-15 10:30:00",
+      "guestName": "Emma Thompson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Great property overall. Clean and well-maintained. Only minor issue was the WiFi speed, but everything else was perfect.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 4 },
+        { "category": "location", "rating": 4 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-02-20 14:15:00",
+      "guestName": "James Wilson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "draft",
+      "rating": 3,
+      "publicReview": "The apartment was okay but could use some updates. The furniture is a bit dated and there were some maintenance issues.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 3 },
+        { "category": "communication", "rating": 4 },
+        { "category": "location", "rating": 4 },
+        { "category": "value", "rating": 2 }
+      ],
+      "submittedAt": "2024-03-10 09:00:00",
+      "guestName": "Sarah Martinez",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Absolutely fantastic! The best Airbnb experience we've had. Everything was perfect from check-in to check-out.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2024-03-25 16:45:00",
+      "guestName": "Michael Chen",
+      "listingName": "2B N1 A - 29 Shoreditch Heights"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Lovely apartment in a great neighborhood. Very clean and comfortable. Would definitely recommend!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 4 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-04-05 11:20:00",
+      "guestName": "Lisa Anderson",
+      "listingName": "3B N2 B - 45 Brick Lane"
+    },
+    {
+      "id": 7459,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5,
+      "publicReview": "Perfect location, beautiful apartment, and excellent host communication. Couldn't ask for more!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2024-04-12 13:30:00",
+      "guestName": "David Brown",
+      "listingName": "3B N2 B - 45 Brick Lane"
+    },
+    {
+      "id": 7460,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Nice place, good value for money.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 4 },
+        { "category": "communication", "rating": 4 }
+      ],
+      "submittedAt": "2024-04-18 08:15:00",
+      "guestName": "Rachel Green",
+      "listingName": "3B N2 B - 45 Brick Lane"
+    },
+    {
+      "id": 7461,
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "publicReview": "Excellent guests! Very respectful and left the place in perfect condition.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2024-04-20 10:00:00",
+      "guestName": "David Brown",
+      "listingName": "3B N2 B - 45 Brick Lane"
+    },
+    {
+      "id": 7462,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 2,
+      "publicReview": "Unfortunately, the apartment didn't meet our expectations. There were cleanliness issues and the host was slow to respond.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 2 },
+        { "category": "communication", "rating": 2 },
+        { "category": "location", "rating": 3 },
+        { "category": "value", "rating": 2 }
+      ],
+      "submittedAt": "2024-05-01 15:30:00",
+      "guestName": "Tom Johnson",
+      "listingName": "1B Studio - 12 Spitalfields"
+    },
+    {
+      "id": 7463,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4,
+      "publicReview": "Good apartment with all the essentials. Location is convenient and the host was helpful.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 4 },
+        { "category": "communication", "rating": 4 },
+        { "category": "location", "rating": 4 },
+        { "category": "value", "rating": 4 }
+      ],
+      "submittedAt": "2024-05-10 12:00:00",
+      "guestName": "Anna White",
+      "listingName": "1B Studio - 12 Spitalfields"
+    },
+    {
+      "id": 7464,
+      "type": "guest-to-host",
+      "status": "pending",
+      "rating": 5,
+      "publicReview": "Amazing experience! The apartment exceeded our expectations in every way.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 5 },
+        { "category": "communication", "rating": 5 },
+        { "category": "location", "rating": 5 },
+        { "category": "value", "rating": 5 }
+      ],
+      "submittedAt": "2024-05-15 17:20:00",
+      "guestName": "Chris Taylor",
+      "listingName": "1B Studio - 12 Spitalfields"
+    }
+  ]
+}

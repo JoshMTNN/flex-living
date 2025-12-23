@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 37 100% 96%; /* #fff7ea secondary */
+    --foreground: 0 0% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+    --primary: 156 92% 18%; /* #045a38 */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 37 100% 96%; /* #fff7ea */
+    --secondary-foreground: 156 92% 18%;
+    --muted: 37 60% 92%;
+    --muted-foreground: 156 25% 25%;
+    --accent: 37 60% 92%;
+    --accent-foreground: 156 25% 25%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 37 40% 85%;
+    --input: 37 40% 85%;
+    --ring: 156 92% 18%;
+    --radius: 0.5rem;
+    /* chart palette */
+    --chart-1: 156 92% 18%;
+    --chart-2: 37 100% 50%;
+  }
+
+  .dark {
+    --background: 156 15% 8%;
+    --foreground: 0 0% 96%;
+    --card: 156 10% 12%;
+    --card-foreground: 0 0% 96%;
+    --popover: 156 10% 10%;
+    --popover-foreground: 0 0% 96%;
+    --primary: 156 92% 40%;
+    --primary-foreground: 0 0% 8%;
+    --secondary: 156 12% 18%;
+    --secondary-foreground: 0 0% 96%;
+    --muted: 156 12% 18%;
+    --muted-foreground: 0 0% 80%;
+    --accent: 156 12% 18%;
+    --accent-foreground: 0 0% 90%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 96%;
+    --border: 156 12% 20%;
+    --input: 156 12% 20%;
+    --ring: 156 92% 40%;
+    --chart-1: 156 92% 40%;
+    --chart-2: 37 100% 70%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-[hsl(var(--background))] text-[hsl(var(--foreground))];
+    font-family:
+      -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+      'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  }
+}
